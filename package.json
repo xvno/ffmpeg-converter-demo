@@ -1,0 +1,17 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "vno <volving@icloud.com> (http://vno.io)",
+  "license": "MIT",
+  "dependencies": {
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^2.7.0",
+    "ffprobe": "^1.1.0",
+    "ffprobe-static": "^3.0.0"
+  }
+}
